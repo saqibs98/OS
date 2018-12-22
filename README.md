@@ -1,2 +1,2 @@
-# OS
-This repository is about the question of assignment of OS
+# Operating Systems Assignemnt
+This assignment contains C-language questions about threads,child processes using fork method.
